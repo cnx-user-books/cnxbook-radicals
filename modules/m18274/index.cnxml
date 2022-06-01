@@ -1,0 +1,752 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Radical Concepts -- Simplifying Radicals</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18274</md:content-id>
+  <md:title>Radical Concepts -- Simplifying Radicals</md:title>
+  <md:abstract>This module covers techniques for the simplification of radicals.</md:abstract>
+  <md:uuid>eeb8371b-c44e-4b55-92c7-0cec6bccfb0b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://www.brightstorm.com/d/math/s/algebra/u/radical-expressions-and-equations/t/adding-and-subtracting-radical-expressions" strength="3">Adding and Subtracting Radical Expressions Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra/u/radical-expressions-and-equations/t/dividing-radicals-and-rationalizing-the-denominator" strength="3">Dividing Radicals Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra/u/radical-expressions-and-equations/t/multiplying-and-distributing-radical-expressions" strength="3">Multiplying Radicals Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra/u/radical-expressions-and-equations/t/simplifying-radical-expressions" strength="3">Simplifying Radical Expressions Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra-2/u/roots-and-radicals/t/simplifying-radicals-using-rational-exponents" strength="3">Simplifying Radicals Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra-2/u/roots-and-radicals/t/evaluating-rational-exponents" strength="3">Evaluating Rational Exponents Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra-2/u/roots-and-radicals/t/multiplying-radicals-of-different-roots" strength="3">How to Multiply Radicals Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra-2/u/roots-and-radicals/t/multiplying-radicals-of-the-same-root" strength="3">Multiplying Radical Expressions Video</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id10342624">
+      <title>Simplifying Radicals</title>
+      <para id="id11265386">The property 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "ab"} } {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi>a</m:mi></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {a} } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {b} } {}</m:annotation></m:semantics></m:math> can be used to simplify radicals. The key is to break the number inside the root into two factors, <emphasis>one of which is a perfect square</emphasis>.</para>
+      <example id="id1172474765465"><title>Simplifying a Radical</title><table id="id9870446" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+			<colspec colnum="2" colname="c2"/>
+			<colspec colnum="1" colname="c1"/>
+			<colspec colnum="2" colname="c2"/>
+			<tbody>
+				<row>
+					<entry>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mtext>75</m:mtext>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"75"} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+					</entry>
+					<entry/>
+				</row>
+				<row>
+					<entry>
+						<emphasis><m:math><m:mo>=</m:mo></m:math></emphasis>
+						<m:math><m:msqrt><m:mn>25</m:mn><m:mo>•</m:mo><m:mn>3</m:mn></m:msqrt></m:math>				</entry>
+					<entry>
+						<emphasis> because 25•3 is 75, and 25 is a perfect square</emphasis>
+					</entry>
+				</row>
+				<row>
+					<entry>
+						<emphasis><m:math>
+<m:mo>=</m:mo>
+</m:math></emphasis>
+						<m:math><m:msqrt><m:mn>25</m:mn></m:msqrt></m:math><m:math><m:msqrt><m:mn>3</m:mn></m:msqrt></m:math>			</entry>
+					<entry>
+						<emphasis> because </emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mstyle fontstyle="italic">
+														<m:mrow>
+															<m:mtext>ab</m:mtext>
+														</m:mrow>
+													</m:mstyle>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "ab"} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis><m:math>
+<m:mo>=</m:mo>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mi>a</m:mi>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {a} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mi>b</m:mi>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {b} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+					</entry>
+				</row>
+				<row>
+					<entry>
+						<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mn>3</m:mn>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+					</entry>
+					<entry><emphasis> because </emphasis>
+						<m:math><m:msqrt><m:mn>25</m:mn></m:msqrt></m:math>			<emphasis>=5</emphasis>
+					</entry>
+				</row>
+			</tbody>
+		
+
+
+
+</tgroup>
+</table>
+</example>
+      <para id="id9619808">So we conclude that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>75</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"75"} } {}</m:annotation></m:semantics></m:math>=5
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math>. You can confirm this on your calculator (both are approximately 8.66).</para>
+      <para id="id10854162">We rewrote 75 as <m:math>
+<m:mn>25</m:mn>
+<m:mo>•</m:mo>
+<m:mn>3</m:mn>
+</m:math> because 25 is a perfect square. We could, of course, also rewrite 75 as <m:math>
+<m:mn>5</m:mn>
+<m:mo>•</m:mo>
+<m:mn>15</m:mn>
+</m:math>, but—although correct—that would not help us simplify, because neither number is a perfect square.</para>
+      <example id="id1172488776897"><title>Simplifying a Radical in Two Steps</title><table id="id11453926" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+	<colspec colnum="2" colname="c2"/>
+	<tbody>
+		<row>
+			<entry>
+				<m:math><m:msqrt><m:mn>180</m:mn></m:msqrt></m:math>			</entry><entry/>
+		</row>
+		<row>
+			<entry>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+</m:math></emphasis>
+				<m:math><m:msqrt><m:mn>9•20</m:mn></m:msqrt></m:math>				</entry><entry> <emphasis> because <m:math>
+<m:mn>9</m:mn>
+<m:mo>•</m:mo>
+<m:mn>20</m:mn>
+</m:math> is 180, and 9 is a perfect square</emphasis>
+			</entry>
+		</row>
+		<row>
+			<entry>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+</m:math></emphasis>
+								<m:math><m:msqrt><m:mn>9</m:mn></m:msqrt></m:math>				<m:math><m:msqrt><m:mn>20</m:mn></m:msqrt></m:math></entry><entry><emphasis> because </emphasis>
+				<emphasis>
+					<m:math>
+						<m:semantics>
+							<m:mrow>
+								<m:mstyle fontsize="12pt">
+									<m:mrow>
+										<m:msqrt>
+											<m:mstyle fontstyle="italic">
+												<m:mrow>
+													<m:mtext>ab</m:mtext>
+												</m:mrow>
+											</m:mstyle>
+										</m:msqrt>
+									</m:mrow>
+								</m:mstyle>
+								<m:mrow/>
+							</m:mrow>
+							<m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "ab"} } {}</m:annotation>
+						</m:semantics>
+					</m:math>
+				</emphasis>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+</m:math></emphasis>
+				<emphasis>
+					<m:math>
+						<m:semantics>
+							<m:mrow>
+								<m:mstyle fontsize="12pt">
+									<m:mrow>
+										<m:msqrt>
+											<m:mi>a</m:mi>
+										</m:msqrt>
+									</m:mrow>
+								</m:mstyle>
+								<m:mrow/>
+							</m:mrow>
+							<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {a} } {}</m:annotation>
+						</m:semantics>
+					</m:math>
+				</emphasis>
+				<emphasis>
+					<m:math>
+						<m:semantics>
+							<m:mrow>
+								<m:mstyle fontsize="12pt">
+									<m:mrow>
+										<m:msqrt>
+											<m:mi>b</m:mi>
+										</m:msqrt>
+									</m:mrow>
+								</m:mstyle>
+								<m:mrow/>
+							</m:mrow>
+							<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {b} } {}</m:annotation>
+						</m:semantics>
+					</m:math>
+				</emphasis>
+			</entry>
+		</row>
+		<row>
+			<entry>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></emphasis>
+				<m:math><m:msqrt><m:mn>20</m:mn></m:msqrt></m:math>				</entry><entry><emphasis> So far, so good. But wait! We’re not done!</emphasis>
+			</entry>
+		</row>
+		<row>
+			<entry>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></emphasis>
+				<m:math><m:msqrt><m:mn>4•5</m:mn></m:msqrt></m:math>				</entry><entry><emphasis> There’s another perfect square to pull out!</emphasis>
+			</entry>
+		</row>
+		<row>
+			<entry>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></emphasis>
+				<m:math><m:msqrt><m:mn>4</m:mn></m:msqrt></m:math><m:math><m:msqrt><m:mn>5</m:mn></m:msqrt></m:math>			</entry> <entry/>
+		</row>
+		<row>
+			<entry>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+</m:math></emphasis>
+				<m:math><m:msqrt><m:mn>5</m:mn></m:msqrt></m:math></entry><entry>
+			</entry>
+		</row>
+		<row>
+			<entry>
+				<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>6</m:mn>
+</m:math></emphasis>
+				<m:math><m:msqrt><m:mn>5</m:mn></m:msqrt></m:math>			</entry><entry>	<emphasis> Now we’re done.</emphasis>
+			</entry>
+		</row>
+	</tbody>
+		
+
+
+
+</tgroup>
+</table>
+</example>
+      <para id="id10830726">The moral of this second example is that 	
+		<emphasis>after</emphasis>
+	
+	you simplify, you should always look to see if you can simplify 
+		<emphasis>again</emphasis>
+	.</para>
+      <para id="id10081272">A secondary moral is, try to pull out the biggest perfect square you can. We could have jumped straight to the answer if we had begun by rewriting 180 as 
+<m:math>
+<m:mn>36</m:mn>
+<m:mo>•</m:mo>
+<m:mn>5</m:mn>
+</m:math>.</para>
+      <para id="id7687537">This sort of simplification can sometimes allow you to <emphasis>combine</emphasis> radical terms, as in this example:</para>
+      <example id="id1172462231604"><title>Combining Radicals</title><table id="id4850261" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+			<tbody>
+				<row>
+					<entry>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mtext>75</m:mtext>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"75"} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis><m:math>
+<m:mo>–</m:mo>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mtext>12</m:mtext>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"12"} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+				</entry><entry>	</entry>
+				</row>
+				<row>
+					<entry>
+						<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mn>3</m:mn>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis><m:math>
+<m:mn>–2</m:mn>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mn>3</m:mn>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+					</entry><entry>	<emphasis> We found earlier that </emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mtext>75</m:mtext>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"75"} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mn>3</m:mn>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis>. Use the same method to confirm that </emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mtext>12</m:mtext>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"12"} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>2</m:mn>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mn>3</m:mn>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						<emphasis>.</emphasis>
+					</entry>
+				</row>
+				<row>
+					<entry>
+						<emphasis><m:math>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math></emphasis>
+						<emphasis>
+							<m:math>
+								<m:semantics>
+									<m:mrow>
+										<m:mstyle fontsize="12pt">
+											<m:mrow>
+												<m:msqrt>
+													<m:mn>3</m:mn>
+												</m:msqrt>
+											</m:mrow>
+										</m:mstyle>
+										<m:mrow/>
+									</m:mrow>
+									<m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation>
+								</m:semantics>
+							</m:math>
+						</emphasis>
+						</entry> <entry><emphasis> 5 of anything minus 2 of that same thing is 3 of it, right?</emphasis>
+					</entry>
+				</row>
+			</tbody>
+		
+</tgroup>
+</table>
+</example>
+      <para id="id3982389">
+        <emphasis>That last step may take a bit of thought. It can only be used when the radical is the same. Hence, </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mn>2</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis>+</emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mn>3</m:mn>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis> cannot be simplified at all. We were able to simplify </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mtext>75</m:mtext>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"75"} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis>–</emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:msqrt>
+                      <m:mtext>12</m:mtext>
+                    </m:msqrt>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"12"} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis> only by making the radical in both cases the </emphasis>
+        <emphasis>
+          <emphasis>same</emphasis>
+        </emphasis>
+        <emphasis>.</emphasis>
+      </para>
+      <para id="id3823294">So why does <m:math><m:mn>5</m:mn></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math><m:math><m:mn>–2</m:mn></m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math><m:math>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math>? It may be simplest to think about verbally: 5 of these things, minus 2 of the same things, is 3 of them. But you can look at it more formally as a factoring problem, if you see a common factor of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id10257567"><m:math>
+<m:mn>5</m:mn>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math><m:math>
+<m:mn>–2</m:mn>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math> <m:math>
+<m:mo>=</m:mo>
+</m:math> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math><m:math>
+<m:mo>(</m:mo>
+<m:mn>5</m:mn>
+<m:mo>–</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>=</m:mo>
+</m:math> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math><m:math>
+<m:mo>(</m:mo>
+<m:mn>3</m:mn>
+<m:mo>)</m:mo></m:math>.</para>
+      <para id="id6348390">Of course, the process is exactly the same if variable are involved instead of just numbers!</para>
+      <example id="id1172472897903"><title>Combining Radicals with Variables</title><table id="id9735429" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+			<tbody>
+				<row>
+					<entry>
+						<m:math><m:msup><m:mi>x</m:mi><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mi>x</m:mi><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:msup></m:math>				</entry> <entry/>
+				</row>
+				<row>
+					<entry>
+					
+						<m:math><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>+</m:mo><m:msup><m:mi>x</m:mi><m:mn>5</m:mn></m:msup></m:math>			</entry><entry>		<emphasis> Remember the definition of fractional exponents!</emphasis>
+					</entry>
+				</row>
+				<row>
+					<entry>
+						<m:math><m:mo>=</m:mo><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>*</m:mo><m:mi>x</m:mi></m:msqrt> <m:mo>+</m:mo><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup><m:mo>*</m:mo><m:mi>x</m:mi></m:msqrt></m:math>					</entry><entry>	<emphasis> As always, we simplify radicals by factoring them inside the root...</emphasis>
+					</entry>
+				</row>
+				<row>
+					<entry>
+						<m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt><m:mo>*</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt><m:mo>+</m:mo><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>4</m:mn></m:msup></m:msqrt><m:mo>*</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:math>			</entry><entry>		<emphasis> and then breaking them up...</emphasis>
+					</entry>
+				</row>
+				<row>
+					<entry>
+						<m:math><m:mo>=</m:mo><m:mi>x</m:mi><m:msqrt><m:mi>x</m:mi></m:msqrt><m:mo>+</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:msqrt><m:mi>x</m:mi></m:msqrt>
+</m:math>	</entry><entry>		<emphasis> and then taking square roots outside!</emphasis>
+					</entry>
+				</row>
+				<row>
+					<entry>
+						<m:math><m:mo>=</m:mo><m:mo>(</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>x</m:mi><m:mo>)</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt>
+</m:math>			</entry><entry>		<emphasis> Now that the radical is the same, we can combine.</emphasis>
+					</entry>
+				</row>
+			</tbody>
+		
+
+
+
+
+
+
+</tgroup>
+</table>
+</example>
+      <section id="id11406952">
+        <title>Rationalizing the Denominator</title>
+        <para id="id11140441">It is always possible to express a fraction with no square roots in the denominator.</para>
+        <para id="id10541799">Is it always desirable? Some texts are religious about this point: “You should never have a square root in the denominator.” I have absolutely no idea why. To me, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  { sqrt {2} } } } {}</m:annotation></m:semantics></m:math> looks simpler than 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { sqrt {2} }  over  {2} } } {}</m:annotation></m:semantics></m:math>; I see no overwhelming reason for forbidding the first or preferring the second.</para>
+        <para id="id3957132">However, there are times when it is useful to remove the radicals from the denominator: for instance, when adding fractions. The trick for doing this is based on the basic rule of fractions: <emphasis>if you multiply the top and bottom of a fraction by the same number, the fraction is unchanged.</emphasis> This rule enables us to say, for instance, that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> is exactly the same number as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 cdot 3}  over  {3 cdot 3} } } {}</m:annotation></m:semantics></m:math>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {9} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id6346103">In a case like 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  { sqrt {2} } } } {}</m:annotation></m:semantics></m:math>, therefore, you can multiply the top and bottom by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2} } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id9243824"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  { sqrt {2} } } } {}</m:annotation></m:semantics></m:math> = <m:math><m:mfrac><m:mrow><m:mn>1</m:mn><m:mo>*</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>*</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:mfrac></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { sqrt {2} }  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10580574">What about a more complicated case, such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msqrt><m:mtext>12</m:mtext></m:msqrt><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { sqrt {"12"} }  over  {1+ sqrt {3} } } } {}</m:annotation></m:semantics></m:math>? You might think we could simplify this by multiplying the top and bottom by <m:math>
+<m:mo>(</m:mo>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math>), but that doesn’t work: the bottom turns into <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math>
+<m:math><m:mo>=</m:mo>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math><m:math>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+</m:math>, which is at least as ugly as what we had before.</para>
+        <para id="id3956490">The correct trick for getting rid of <m:math>
+<m:mo>(</m:mo>
+<m:mn>1</m:mn>
+<m:mo>+</m:mo>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math>) is to multiply it by <m:math>
+<m:mo>(</m:mo>
+<m:mn>1</m:mn>
+<m:mo>–</m:mo>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {3} } {}</m:annotation></m:semantics></m:math>). These two expressions, identical except for the replacement of <m:math><m:mi>a+</m:mi></m:math> by <m:math><m:mi>a-</m:mi></m:math>, are known as <term>conjugates</term>. What happens when we multiply them? We don’t need to use FOIL if we remember that</para>
+        <para id="id11153134"><m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>y</m:mi><m:mo>)</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>y</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup></m:math></para>
+        <para id="id10728858">Using this formula, we see that</para>
+        <para id="id8317520"><m:math><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mn>1</m:mn><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>2</m:mn> </m:math></para>
+        <para id="id8603214">So the square root does indeed go away. We can use this to simplify the original expression as follows.</para>
+        <example id="id1172488200564"><title>Rationalizing Using the Conjugate of the Denominator</title><para id="id9233209"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msqrt><m:mtext>12</m:mtext></m:msqrt><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { sqrt {"12"} }  over  {1+ sqrt {3} } } } {}</m:annotation></m:semantics><m:mo>=</m:mo> <m:mfrac><m:mrow><m:msqrt><m:mn>12</m:mn></m:msqrt><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo></m:mrow>
+<m:mrow><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo><m:mo>(</m:mo><m:mn>1</m:mn><m:mo>-</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo>
+</m:mrow></m:mfrac><m:mo>=</m:mo> <m:mfrac><m:mrow><m:msqrt><m:mn>12</m:mn></m:msqrt> <m:mo>-</m:mo> <m:msqrt><m:mn>36</m:mn></m:msqrt></m:mrow> <m:mrow><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac> <m:mo>=</m:mo> <m:mfrac><m:mrow><m:mn>2</m:mn><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>-</m:mo><m:mn>6</m:mn></m:mrow><m:mn> -2</m:mn></m:mfrac> <m:mo>=</m:mo> <m:mo>-</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>+</m:mo><m:mn>3</m:mn></m:math></para></example>
+        <para id="id8246737">As always, you may want to check this on your calculator. Both the original and the simplified expression are approximately 1.268.</para>
+        <para id="id8783107">Of course, the process is the same when variables are involved.</para>
+        <example id="id1172468227458"><title>Rationalizing with Variables</title><para id="id3994909"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {x -  sqrt {x} } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mfenced></m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mfenced><m:mfenced open="(" close=")"><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1 left (x+ sqrt {x}  right )}  over  { left (x -  sqrt {x}  right ) left (x+ sqrt {x}  right )} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt></m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x+ sqrt {x} }  over  {x rSup { size 8{2} }  - x} } } {}</m:annotation></m:semantics></m:math>
+	</para></example>
+        <para id="id10690322">Once again, we multiplied the top and the bottom by the <emphasis>conjugate of the denominator</emphasis>: that is, we replaced <m:math><m:mi>a-</m:mi></m:math> with <m:math><m:mi>a+</m:mi></m:math>. The formula <m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>a</m:mi><m:mo>)</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>-</m:mo><m:mi>a</m:mi><m:mo>)</m:mo><m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:msup><m:mi>a</m:mi><m:mn>2</m:mn></m:msup></m:math> enabled us to quickly multiply the terms on the bottom, and eliminated the square roots in the denominator.</para>
+      </section>
+    </section>
+  </content>
+</document>

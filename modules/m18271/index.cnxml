@@ -1,0 +1,64 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radical Concepts -- Properties of Radicals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e1b68850-7f84-487e-8744-1616c9475883</md:uuid>
+</metadata>
+  <content>
+    
+      <para id="id8745369">What is <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:msqrt></m:math>? Many students will answer quickly that the answer is <m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:math> and have a very difficult time believing this answer is wrong. But it is wrong.</para>
+      <para id="id5697223"><m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt></m:math>  <emphasis>is </emphasis><m:math><m:msup><m:mi>x</m:mi><m:mi>*</m:mi></m:msup></m:math>
+
+
+
+<footnote id="idm8092816">I’m fudging a bit here: <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt></m:math> 
+ is <m:math><m:mi>x</m:mi></m:math> only if you ignore negative numbers. For instance, if <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>–3</m:mn></m:math>, then <m:math><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>9</m:mn></m:math>, and <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt></m:math> 
+ is 3; so in that case, <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt></m:math> 
+ is not <m:math><m:mi>x</m:mi></m:math>. In general, <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt> 
+<m:mo>=</m:mo><m:mo stretchy="false">|</m:mo><m:mi>x</m:mi><m:mo stretchy="false">|</m:mo></m:math>. However, this subtlety is not relevant to the overall point, which is that you cannot break up two terms that are added under a radical.</footnote> 
+
+
+
+and <m:math><m:msqrt><m:mn>9</m:mn></m:msqrt></m:math> 
+ <emphasis>is</emphasis> 3, but <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:msqrt></m:math> 
+ <emphasis>is not</emphasis> <m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:math>.</para>
+      <para id="id12578458">Why not? Remember that <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:msqrt></m:math> 
+ is asking a question: “what <emphasis>squared</emphasis> gives the answer <m:math><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:math> 
+?” So <m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:math> is not an answer, because <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup>
+<m:mo>=</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mtext>6x+9</m:mtext></m:math>, <emphasis>not</emphasis> <m:math><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:math> 
+.</para>
+      <para id="id13898239">As an example, suppose <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>4</m:mn></m:math>. So <m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:msqrt>
+<m:mo>=</m:mo> 
+
+<m:msqrt><m:msup><m:mi>4</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:msqrt>
+
+<m:mo>=</m:mo> 
+
+<m:msqrt><m:mn>25</m:mn></m:msqrt>
+<m:mo>=</m:mo><m:mn>5</m:mn></m:math>. But <m:math><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>7</m:mn></m:math>.</para>
+
+      <note id="id12287675" type="Common Error"><label>Common Error</label>If two numbers are <emphasis>added</emphasis> or <emphasis>subtracted</emphasis> under a square root, you cannot split them up. In symbols: <m:math><m:msqrt><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:msqrt><m:mo>≠</m:mo><m:msqrt><m:mi>a</m:mi></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mi>b</m:mi></m:msqrt></m:math> 
+ or, to put it another way, 
+
+<m:math>
+  <m:msqrt>
+     <m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup>
+     <m:mo>+</m:mo>
+     <m:msup><m:mi>y</m:mi><m:mn>2</m:mn>
+     </m:msup>
+  </m:msqrt>
+<m:mo>≠</m:mo><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>b</m:mi></m:math></note>
+
+      <para id="id12819294"><m:math><m:msqrt><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mn>9</m:mn></m:msqrt></m:math> 
+ cannot, in fact, be simplified at all. It is a perfectly valid function, but cannot be rewritten in a simpler form.</para>
+      <para id="id5685283">How about <m:math><m:msqrt><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt></m:math> 
+? By analogy to the previous discussion, you might expect that this cannot be simplified either. But in fact, it can be simplified:</para>
+      <para id="id14463327"><m:math><m:msqrt><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt> <m:mo>=</m:mo><m:mn>3</m:mn><m:mi>x</m:mi></m:math></para>
+      <para id="id13182468">Why? Again, <m:math><m:msqrt><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:msqrt></m:math> is asking “what <emphasis>squared</emphasis> gives the answer <m:math> <m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup> </m:math> ?” The answer is <m:math><m:mn>3</m:mn><m:mi>x</m:mi></m:math> because <m:math><m:msup><m:mrow><m:mo>(</m:mo><m:mn>3</m:mn><m:mi>x</m:mi><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup> </m:math>.</para>
+      <para id="id11865279">Similarly, <m:math><m:msqrt><m:mfrac><m:mn>9</m:mn><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:msqrt>
+<m:mo>=</m:mo><m:mfrac><m:mn>3</m:mn><m:mi>x</m:mi></m:mfrac></m:math>, because 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mfrac><m:mn>3</m:mn><m:mi>x</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>9</m:mn><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {3}  over  {x} }  right ) rSup { size 8{2} } = {  {9}  over  {x rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>.</para>
+
+      <note id="id11224030" type="On the other hand..."><label>On the other hand...</label>If two numbers are multiplied or divided under a square root, you <emphasis>can</emphasis> split them up. In symbols: <m:math><m:msqrt><m:mi>ab</m:mi> </m:msqrt><m:mo>= </m:mo><m:msqrt><m:mi>a</m:mi></m:msqrt> <m:msqrt><m:mi>b</m:mi></m:msqrt></m:math>, <m:math><m:msqrt><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:msqrt> <m:mo>=</m:mo>
+<m:mfrac> <m:msqrt><m:mi>a</m:mi></m:msqrt><m:msqrt><m:mi>b</m:mi></m:msqrt></m:mfrac></m:math></note>
+
+  </content>
+</document>

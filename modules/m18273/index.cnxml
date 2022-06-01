@@ -1,0 +1,326 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Radical Concepts -- Radical Equations</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18273</md:content-id>
+  <md:title>Radical Concepts -- Radical Equations</md:title>
+  <md:abstract>This module contains methods on solving radical equations.</md:abstract>
+  <md:uuid>8b755d3f-31b8-47b7-a772-863b9811d911</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://www.brightstorm.com/d/math/s/algebra/u/radical-expressions-and-equations/t/solving-radical-equations" strength="3">Solving Radical Equations Video</link>
+      <link url="http://www.brightstorm.com/d/math/s/algebra-2/u/roots-and-radicals/t/solving-an-equation-with-radicals" strength="3">Solving Radicals Video</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  
+      <para id="id3303568">When solving <emphasis>equations that involve radicals</emphasis>, begin by asking yourself: <emphasis>is there an <m:math><m:mi>x</m:mi></m:math> under the square root?</emphasis> The answer to this question will determine the way you approach the problem.</para>
+      <para id="id11060724">If there is <emphasis>not </emphasis>an <m:math><m:mi>x</m:mi></m:math> under the square root—if only numbers are under the radicals—you can solve much the same way you would solve with no radicals at all.</para>
+      <example id="id1164979659032"><title>Radical Equation with No Variables Under Square Roots</title><table id="element-140" summary="">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><m:math><m:msqrt><m:mn>2</m:mn></m:msqrt> <m:mi>x</m:mi><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>7</m:mn><m:mo>– </m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mi>x</m:mi></m:math></entry>
+    <entry>Sample problem: no variables under radicals</entry>
+  </row>
+  <row>
+    <entry><m:math><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>7</m:mn><m:mo>-</m:mo><m:mn>5</m:mn></m:math> </entry>
+    <entry>Get everything with an <m:math><m:mi>x</m:mi></m:math> on one side, everything else on the other</entry>
+  </row>
+  <row>
+    <entry><m:math><m:mi>x</m:mi><m:mo>(</m:mo> <m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt><m:mo>)</m:mo> <m:mo>=</m:mo> <m:mn>2</m:mn></m:math> </entry>
+    <entry>Factor out the <m:math><m:mi>x</m:mi></m:math></entry>
+  </row>
+  <row>
+    <entry><m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>2</m:mn><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt><m:mo>+</m:mo><m:msqrt><m:mn>3</m:mn></m:msqrt></m:mrow></m:mfrac></m:math> </entry>
+    <entry>Divide, to solve for <m:math><m:mi>x</m:mi></m:math></entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table>
+      
+      
+      
+      
+      
+</example>
+      <para id="id10586946">The key thing to note about such problems is that <emphasis>you do not have to square both sides of the equation</emphasis>. <m:math><m:msqrt><m:mn>2</m:mn></m:msqrt></m:math> may look ugly, but it is just a number—you could find it on your calculator if you wanted to—it functions in the equation just the way that the number 10, or <m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+</m:math>, or π would.</para>
+      <para id="id6803836">If there is an <m:math>
+<m:mi>x</m:mi>
+</m:math> under the square root, the problem is completely different. You will have to square both sides to get rid of the radical. However, there are two important notes about this kind of problem.</para>
+      <list id="id5723086" list-type="enumerated">
+        <item>Always get the radical <emphasis>alone, on one side of the equation</emphasis>, before squaring.</item>
+        <item>Squaring both sides can introduce <emphasis>false answers</emphasis>—so it is important to check your answers after solving!</item>
+      </list>
+      <para id="id4139141">Both of these principles are demonstrated in the following example.</para>
+      <example id="id1164979249578"><title>Radical Equation with Variables under Square Roots</title><table id="element-746" summary="">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><m:math><m:msqrt><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:msqrt> <m:mo>+</m:mo> <m:mi>3x</m:mi><m:mo> =</m:mo><m:mi> 5x</m:mi><m:mo> +</m:mo><m:mn> 1</m:mn></m:math> </entry>
+    <entry>Sample problem with variables under radicals</entry>
+  </row>
+  <row>
+    <entry>
+<m:math><m:msqrt><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:msqrt> <m:mo>=</m:mo><m:mi>2x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:math> </entry>
+    <entry>Isolate the radical before squaring!</entry>
+  </row>
+  <row>
+    <entry><m:math><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>2x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math> </entry>
+    <entry>Now, square both sides</entry>
+  </row>
+  <row>
+    <entry>
+<m:math>
+<m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:msup><m:mi>4x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>4x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+    <entry>Multiply out. Hey, it looks like a quadratic equation now!</entry>
+  </row>
+  <row>
+    <entry><m:math>
+<m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:msup><m:mi>4x</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mi>4x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+    <entry>As always with quadratics, get everything on one side.</entry>
+  </row>
+  <row>
+    <entry><m:math><m:mo>(</m:mo><m:mi>4x</m:mi><m:mo>-</m:mo><m:mn>1</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn></m:math></entry>
+    <entry>Factoring: the easiest way to solve quadratic equations.</entry>
+  </row>
+  <row>
+    <entry><m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:math> or <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>-1</m:mn></m:math></entry>
+    <entry>Two solutions<emphasis>. Do they work?</emphasis> Check in the <emphasis>original equation</emphasis>!</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table>
+      
+      
+      
+      
+      
+      
+      <table id="id10042476" summary="">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row rowsep="0">
+              <entry><emphasis>Check <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac></m:math></emphasis>
+</entry>
+              <entry><emphasis>Check <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>–1</m:mn>
+</m:math></emphasis>
+
+
+</entry>
+            </row>
+            <row rowsep="0">
+    <entry><m:math>
+
+<m:msqrt><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>2</m:mn></m:msqrt><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>(</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>)</m:mo><m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover>
+<m:mn>5</m:mn><m:mo>(</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+    <entry><m:math><m:msqrt><m:mn>-1</m:mn><m:mo>+</m:mo><m:mn>2</m:mn></m:msqrt><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>(</m:mo><m:mn>-1</m:mn><m:mo>)</m:mo> <m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover> <m:mn>5</m:mn><m:mo>(</m:mo><m:mn>-1</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+  </row>
+  <row rowsep="0"> 
+    <entry><m:math><m:msqrt><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>4</m:mn></m:mfrac></m:msqrt><m:mo>+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac> <m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover> <m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+    <entry><m:math><m:msqrt><m:mn>1</m:mn></m:msqrt><m:mo>-</m:mo><m:mn>3</m:mn> <m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover><m:mn>-5</m:mn><m:mo>+</m:mo><m:mn>1</m:mn>
+</m:math></entry>
+  </row>
+  <row rowsep="0">
+    <entry><m:math><m:msqrt><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac></m:msqrt><m:mo>+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac>  <m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover> <m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>4</m:mn></m:mfrac></m:math></entry>
+    <entry>
+<m:math><m:mn>1</m:mn><m:mo>-</m:mo><m:mn>3</m:mn><m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover> <m:mn>-5</m:mn><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+  </row>
+  <row rowsep="0">
+    <entry>
+<m:math><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>4</m:mn></m:mfrac></m:math></entry>
+    <entry><m:math><m:mn>-2</m:mn><m:mo>=</m:mo><m:mn>-4</m:mn></m:math><emphasis> Not equal!</emphasis></entry>
+  </row>
+  <row rowsep="0">
+    <entry><m:math><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac></m:math></entry>
+    <entry/>
+  </row>
+</tbody>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table>
+
+</example>
+      <para id="id4582528">So the algebra yielded two solutions: <m:math>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac>
+</m:math> and –1. Checking, however, we discover that only the first solution is valid. This problem demonstrates how important it is to check solutions whenever squaring both sides of an equation.</para>
+      <para id="id11473921">If variables under the radical occur more than once, you will have to go through this procedure multiple times. Each time, you isolate a radical and then square both sides.</para>
+<example id="id2393601"><title>Radical Equation with Variables under Square Roots Multiple Times</title><table id="element-993" summary="">
+<tgroup cols="2"><tbody>
+<row><entry>
+<m:math><m:msqrt><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn></m:msqrt><m:mo>-</m:mo><m:mi>x</m:mi><m:mi>=</m:mi><m:mi>1</m:mi></m:math></entry><entry> Sample problem with variables under radicals multiple times</entry>
+</row>
+<row><entry>
+      <m:math>
+<m:msqrt><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn></m:msqrt><m:mo>=</m:mo><m:msqrt><m:mi>x</m:mi></m:msqrt><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry><entry>Isolate one radical. (I usually prefer to start with the bigger one.)</entry>
+</row>
+<row><entry>
+<m:math><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>7</m:mn><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:msqrt><m:mi>x</m:mi></m:msqrt><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry><entry> Square both sides. The <emphasis>two</emphasis>-radical equation is now a <emphasis>one</emphasis>-radical equation.</entry>
+</row>
+<row><entry>
+      <m:math><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>2</m:mn><m:msqrt><m:mn>x</m:mn></m:msqrt></m:math></entry><entry/>
+</row>
+<row>
+<entry>
+      <m:math><m:mn>3</m:mn><m:mo>=</m:mo><m:mi>x</m:mi></m:math></entry><entry> Isolate the remaining radical, then square both sides again..</entry>
+</row>
+<row>
+<entry>
+      <m:math><m:mn>9</m:mn><m:mo>=</m:mo><m:mi>x</m:mi></m:math></entry><entry>In this case, we end up with only one solution. But we still need to check it.</entry>
+</row></tbody>
+
+
+
+
+</tgroup>
+</table>
+      
+      
+      
+      
+      
+      
+      <table id="element-552" summary="">
+<title>Check x=9</title>
+<tgroup cols="1"><tbody>
+  <row>
+    <entry><m:math><m:msqrt><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>7</m:mn></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt> <m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover><m:mn>1</m:mn></m:math></entry>
+  </row>
+  <row>
+    <entry><m:math><m:msqrt><m:mn>16</m:mn></m:msqrt><m:mo>-</m:mo><m:msqrt><m:mn>9</m:mn></m:msqrt> <m:mover><m:mo>=</m:mo><m:mo>?</m:mo></m:mover><m:mn>1</m:mn></m:math></entry>
+  </row>
+  <row>
+    <entry><m:math>
+<m:mn>4</m:mn>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+<m:mn>1</m:mn>
+</m:math></entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table>
+      
+      
+      
+</example>
+      <para id="id10357263">Remember, the key to this problem was recognizing that <emphasis>variables under the radical</emphasis> occurred in the original problem <emphasis>two times</emphasis>. That cued us that we would have to go through the process—isolate a radical, then square both sides—twice, before we could solve for <m:math><m:mi>x</m:mi></m:math>. And <emphasis>whenever</emphasis> you square both sides of the equation, it’s vital to check your answer(s)!</para>
+      <section id="id4430138">
+        <title>When good math leads to bad answers</title>
+        <para id="id11524378">Why is it that—when squaring both sides of an equation—perfectly good algebra can lead to invalid solutions? The answer is in the redundancy of squaring. Consider the following equation:</para>
+        <para id="id4552366"><m:math>
+<m:mn>–5</m:mn>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math> False. But square both sides, and we get...</para>
+        <para id="id11060888">25 = 25 True. So squaring both sides of a <emphasis>false </emphasis>equation can produce a <emphasis>true</emphasis> equation.</para>
+        <para id="id10738277">To see how this affects our equations, try plugging <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>-1</m:mi></m:math> into the various steps of the first example.</para>
+        <example id="id1164979276283"><title>Why did we get a false answer of x=–1 in Example 1?</title><table id="element-338" summary="">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><m:math><m:msqrt><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:msqrt><m:mo>+</m:mo><m:mi>3x</m:mi><m:mo>=</m:mo><m:mi>5x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:math></entry>
+    <entry>Does <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>-1</m:mi></m:math> work here? No, it does not.</entry>
+  </row>
+  <row>
+    <entry><m:math><m:msqrt><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn></m:msqrt><m:mo>=</m:mo><m:mi>2x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:math> </entry>
+    <entry>How about here? No, <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>-1</m:mi></m:math>  produces the false equation 1=–1.</entry>
+  </row>
+  <row>
+    <entry><m:math><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:msup><m:mrow><m:mo>(</m:mo><m:mi>2x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:math></entry>
+    <entry>Suddenly, <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>-1</m:mi></m:math>  works. (Try it!)</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table>
+        
+        <para id="id3311875">When we squared both sides, we “lost” the difference between 1 and –1, and they “became equal.” From here on, when we solved, we ended up with <m:math><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>-1</m:mi></m:math> as a valid solution.</para>  </example>
+        <para id="id9389837"><emphasis>Test your memory:</emphasis> When you square both sides of an equation, you can introduce false answers. We have encountered one other situation where <emphasis>good algebra</emphasis> can lead to a <emphasis>bad answer</emphasis>. When was it?</para>
+        <para id="id4895688">Answer: It was during the study of absolute value equations, such as <m:math><m:mo stretchy="false">|</m:mo><m:mi>2x</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">|</m:mo><m:mo>=</m:mo><m:mi>-11x</m:mi><m:mo>+</m:mo><m:mn>42</m:mn></m:math>. In those equations, we also found the hard-and-fast rule that you <emphasis>must check your answers</emphasis> as the last step.</para>
+        <para id="id3690113">What do these two types of problem have in common? The function <m:math><m:mo stretchy="false">|</m:mo><m:mi>x</m:mi><m:mo stretchy="false">|</m:mo></m:math> actually has a lot in common with <m:math><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:math>. Both of them have the peculiar property that they always turn <m:math><m:mi>-a</m:mi></m:math> and <m:math><m:mi>a</m:mi></m:math> into the same response. (For instance, if you plug –3 and 3 into the function, you get the same thing back.) This property is known as being an <term>even function</term>. Dealing with such “redundant” functions leads, in both cases, to the possibility of false answers.</para>
+        <para id="id3320396">The similarity between these two functions can also be seen in the graphs: although certainly not identical, they bear a striking resemblance to each other. In particular, both graphs are symmetric about the y-axis, which is the fingerprint of an “even function”.</para>
+        <para id="id3473118"><figure id="fig1" orient="horizontal">
+  <subfigure id="subfig1">
+    <media id="id1164979513370" alt="Graph of x-squared."><image src="../../media/xsq1.png" mime-type="image/png" print-width="3in"/></media>
+  </subfigure>
+  <subfigure id="subfig2">
+    <media id="id1164978845470" alt="Graph of the absolute value of x."><image src="../../media/absx1.png" mime-type="image/png" print-width="3in"/></media>
+  </subfigure>
+</figure>
+</para>
+      </section>
+    
+  </content>
+</document>

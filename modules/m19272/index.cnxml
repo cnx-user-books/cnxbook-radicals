@@ -1,0 +1,218 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Radicals Homework -- Radical Equations</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b59a29e1-9687-4d11-8fb7-652fe1a82ceb</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me">Before I get into the radical equations, there is something very important I have to get out of the way.  Square these two out:</para><exercise id="element-183"><problem id="idm6807216">
+  <para id="element-841"><m:math>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+
+</exercise><exercise id="element-931"><problem id="idp5336672">
+  <para id="element-380"><m:math>
+<m:mo>(</m:mo>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:msup>
+<m:mo>)</m:mo>
+<m:mn>2</m:mn>
+</m:msup>
+<m:mo>=</m:mo>
+</m:math></para>
+</problem>
+
+</exercise><para id="element-374">How’d it go?  If you got six for the first answer and five for the second, <emphasis>stop!</emphasis>  Go back and look again, because those answers are not right.  (If you don’t believe me, try it on your calculator.)  When you’ve got those correctly simplified (feel free to ask—or, again, check on your calculator) then go on.</para><para id="element-49">Now, radical equations.  Let’s start off with <emphasis>an easy radical equation.</emphasis>
+</para><exercise id="element-168"><problem id="idm3656432">
+  <para id="element-276"><m:math>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+</m:math></para>
+
+<para id="imadethisup">I call this an “easy” radical equation because there is no <m:math>
+<m:mi>x</m:mi>
+</m:math> under the square root.  Sure, there’s a  , but that’s just a number.  So you can solve it pretty much the same way you would solve 
+<m:math>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+</m:math>; just subtract 3, then divide by  <m:math>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+</m:math>.
+</para><list id="element-451" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math></item>
+<item><label>b</label>Check your answer by plugging it into the original equation.  Does it work?</item>
+</list>
+</problem>
+</exercise><para id="element-571">This next one is definitely trickier, but it is still in the category that I call “easy” because there is still no x under the square root.</para><exercise id="element-315"><problem id="idm7657264">
+  <para id="element-473"><m:math>
+<m:msqrt>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>7</m:mn>
+</m:math></para><list id="element-345" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math></item>
+<item><label>b</label>Check your answer by plugging it into the original equation.  Does it work? (Feel free to use your calculator, but show me what you did and how it came out.)</item>
+</list>
+</problem>
+
+</exercise><para id="element-612">Now, what if there <emphasis>is</emphasis> an <m:math>
+<m:mi>x</m:mi>
+</m:math> under the square root?  Let’s try a basic one like that.</para><exercise id="element-748"><problem id="idm2712272">
+  <para id="element-778"><emphasis>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>: </emphasis>
+<m:math>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>9</m:mn>
+</m:math></para>
+</problem>
+
+</exercise><para id="element-109">What did you get?  If you said the answer is three: shame, shame.  The square root of 3 isn’t 9, is it?  Try again.
+</para><para id="element-467">OK, that’s better.  You probably guessed your way to the answer.  But if you had to be systematic about it, you could say “I got to the answer by squaring both sides.”  The rule is: <emphasis>whenever there is an <m:math>
+<m:mi>x</m:mi></m:math> under a radical, you will have to square both sides.  If there is no <m:math><m:mi>x</m:mi></m:math> under the radical, don’t square both sides.</emphasis></para><para id="element-235">It worked out this time, but squaring both sides is fraught with peril.  Here are a few examples.
+</para><exercise id="element-445"><problem id="idm14781600">
+  <para id="element-588"><m:math>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>-9</m:mn>
+</m:math></para><list id="element-389" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math>, by squaring both sides.</item>
+<item><label>b</label>Check your answer by plugging it into the original equation. </item>
+</list>
+</problem></exercise><para id="element-581">Hey, what happened?  When you square both sides, you get <m:math>
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+<m:mn>81</m:mn>
+</m:math>, just like before.  But this time, it’s the wrong answer: <m:math>
+<m:msqrt>
+<m:mn>81</m:mn>
+</m:msqrt>
+</m:math> is not <m:math>
+<m:mn>-9</m:mn>
+</m:math>. <emphasis> The moral of the story is that when you square both sides, you can introduce false answers.</emphasis>  So whenever you square both sides, you have to check your answers to see if they work.  (We will see that rule come up again in some much less obvious places, so it’s a good idea to get it under your belt now: <emphasis>whenever you square both sides, you can introduce false answers!</emphasis>)</para><para id="element-417">But that isn’t the only danger of squaring both sides.  Check this out…</para><exercise id="element-266"><problem id="idm5245584">
+  <para id="element-956"><emphasis>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math> by squaring both sides:</emphasis> <m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math>
+  </para>
+</problem>
+</exercise><para id="element-428">Hey, what happened there?  When you square the left side, you got (I hope) <m:math>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+</m:math>.  Life isn’t any simpler, is it?  So the lesson there is, <emphasis>you have to get the square root by itself before you can square both sides</emphasis>.  Let’s come back to that problem.</para><exercise id="element-564"><problem id="idp2778400">
+  <para id="element-426"><m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>5</m:mn>
+</m:math>
+  </para><list id="element-397" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math> by first getting the square root by itself, and then squaring both sides</item>
+<item><label>b</label>Check your answer in the original equation.</item>
+</list>
+</problem>
+</exercise><para id="element-912">Whew!  Much better!  Some of you may have never fallen into the trap—you may have just subtracted the two to begin with.  But you will find you need the same technique for harder problems, such as this one:</para><exercise id="element-83"><problem id="idp2198736">
+  <para id="element-220"><m:math>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:mn>6</m:mn>
+</m:math></para><list id="element-578" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>Solve for <m:math>
+<m:mi>x</m:mi>
+</m:math> by first getting the square root by itself, and then squaring both sides, and then solving the resulting equation.  <note id="idp811600">You should end up with two answers.</note></item>
+<item><label>b</label>Check your answers in the original equation.  <note id="idm313872">If you did everything right, you should find that one answer works and the other doesn’t.  Once again, we see that squaring both sides can introduce false answers!</note></item>
+
+</list>
+</problem>
+</exercise><exercise id="element-538"><problem id="idm7251296">
+  <para id="element-975"><m:math>
+<m:msqrt>
+<m:mi>x</m:mi>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:msqrt>
+<m:mo>=</m:mo>
+<m:msqrt>
+<m:mn>3</m:mn>
+</m:msqrt>
+<m:mo>-</m:mo>
+<m:msqrt>
+<m:mi>x</m:mi>
+</m:msqrt>
+</m:math></para><para id="element-401">What do you do now?  You’re going to have to square both sides…that will simplify the left, but the right will still be ugly.  But if you look closely, you will see that you have changed an equation with <m:math>
+<m:mi>x</m:mi>
+</m:math> under the square root twice, into an equation with <m:math>
+<m:mi>x</m:mi></m:math> under the square root once.  So then, you can solve it the way you did above: get the square root by itself and square both sides.  Before you are done, you will have squared both sides twice!
+</para>
+</problem>
+
+</exercise><para id="element-319"><emphasis>Solve #10 and check your answers…</emphasis></para>   
+  </content>
+  
+</document>
